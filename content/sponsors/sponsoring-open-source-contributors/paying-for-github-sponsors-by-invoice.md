@@ -1,4 +1,4 @@
----
+-
 title: Paying for GitHub Sponsors by invoice
 shortTitle: Paying by invoice
 intro: 'If your company pays {% data variables.product.company_short %} by invoice, you can join the Sponsors for Companies service.'
